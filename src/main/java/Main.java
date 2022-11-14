@@ -7,9 +7,9 @@ public class Main {
         post.birthday = new FormDate();
 
 
-        post.birthday.day = "25";
-        post.birthday.month = "02";
-        post.birthday.year = "1993";
+        post.birthday.day = 25;
+        post.birthday.month = 11;
+        post.birthday.year = 1993;
         post.name = "Иван";
         post.passport = "3306 " + "№" + " 015015";
         post.patronymic = "Иванович";
